@@ -1,0 +1,5 @@
+print("I love coding a lot")
+print(7)
+print("My name is Zikra /nI am a student of Codingal")
+print("hello",1)
+print("Welcome to the world of coding", end= "*")
